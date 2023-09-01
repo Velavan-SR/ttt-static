@@ -14,7 +14,7 @@ body{
 }
 
 .flex-container{
-    height: 820px;
+    
     display: flex;
     flex-direction: column;
     justify-content: space-around;
